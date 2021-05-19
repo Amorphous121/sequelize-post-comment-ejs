@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "pratham",
+    "password": "1234",
+    "database": "post-comment-ejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "pratham",
+    "password": "1234",
+    "database": "post-comment-ejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "pratham",
+    "password": "1234",
+    "database": "post-comment-ejs",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
